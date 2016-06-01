@@ -1,25 +1,10 @@
-# ReduxSimpleStarter
+# Five Day Forecast
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Enter your favorite cities to get a five day forecast. This app was built while enrolled in Stephen Grider's Udemy course.
 
-###Getting Started###
+clone the repo then run:
 
-There are two methods for getting started with this repo.
+npm start
 
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
+navigate to localhost:8080
 
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> npm start
-```
